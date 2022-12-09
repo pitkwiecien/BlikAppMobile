@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testApp1</string>
+    <string name="wygeneruj_kod_blik">Wygeneruj kod BLIK</string>
+    <string name="blik">BLIK</string>
+    <string name="odrzu">Odrzuć</string>
+    <string name="potwierd">Potwierdź</string>
+</resources>
